@@ -1,0 +1,13 @@
+Trials = 50000
+Save Metrics = 1
+Att Amplitude Factor = 2
+Crossover Probability = 1
+Dominance Overlap Threshold = 0.5
+H = 13
+Max Ind Replace = 2
+Min Substitution Percent = 5
+Mutation Probability = 0.1
+Neighborhood Crossover Probability = 0.9
+Number of Objectives = 3
+Redundancy Overlap Threshold = 0.75
+T = 10
