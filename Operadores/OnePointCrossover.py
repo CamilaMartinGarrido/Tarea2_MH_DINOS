@@ -1,8 +1,11 @@
 import random
+from Operadores.Operator import Operator
 
-class OnePointCrossover:
+class OnePointCrossover(Operator):
     def __init__(self):
         pass
+
+    #c1 y c2 > conjuntos de valores respectivamente 
 
     def run(self, c1, c2):
         # Manejo de valores nulos
