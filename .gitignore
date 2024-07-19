@@ -1,0 +1,9 @@
+# .gitignore
+
+# Ignorar todas las carpetas __pycache__
+**/__pycache__/
+
+# Ignorar todos los archivos .pyc
+**/*.pyc
+
+.vscode/
